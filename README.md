@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SHUBHAM-NAGDIYA
 - pursuing i'm student of B.tech(computer science engineering) at IES university BHOPAL
-- I started my progmming journey with c language during my B.tech 1st year 
-- 👀 I’m interested in   C DEVELOPING PROJECTS
-- 🌱 I’m currently learning C++ PROGRAMMING WITH DSA
-- 💞️ I’m looking to collaborate on C DEVELOPER
+- I have a good knowledge about "python" programmin and basics of "C" and "C++" programming
+- 👀 I’m interested in Python DEVELOPEMENTS
+- 🌱 I’m currently learning PYTHON Programming with DSA
+- 💞️ I’m looking to collaborate on PYTHON DEVELOPER
 - 📫 How to reach me
 - Email: shubhamnagdiya277@gmail.com
 - Contact:7489527259
